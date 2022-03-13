@@ -14,7 +14,7 @@
   <img align="center" alt="raspberrypi" height="33" width="43" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg">
   </div>
   
-  ##
+  #
   
  <div> 
   <a href="https://www.youtube.com/channel/UCJyh6jt5vznlEJzoBwlh_Uw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
