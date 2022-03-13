@@ -1,4 +1,4 @@
-<div style="display: inline_block"align="center><br>
+<div align="center">
   <a href="https://github.com/silenceshhh">
   <img height="168em" src="https://github-readme-stats.vercel.app/api?username=silenceshhh&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="168em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silenceshhh&layout=compact&langs_count=7&theme=dark"/>
