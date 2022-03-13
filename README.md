@@ -5,7 +5,10 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="c" height="32" width="43" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" alt="embeddedc" height="33" width="43" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original-wordmark.svg">
-  <img align="center" alt="linux" height="32" width="43" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-</div>
+  <img align="center" alt="arduino" height="32" width="43" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
+  <img align="center" alt="c" height="32" width="43" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="embeddedc" height="33" width="43" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/embeddedc/embeddedc-original-wordmark.svg">
+  <img align="center" alt="gcc" height="32" width="43" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gcc/gcc-original.svg">
+  <img align="center" alt="linux" height="32" width="43" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  <img align="center" alt="raspberrypi" height="33" width="43" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg">
+  </div>
