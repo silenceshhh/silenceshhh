@@ -1,7 +1,7 @@
 <div style="display: inline_block"><br>  
   <a href="https://github.com/silenceshhh">
-  <img height="178em" src="https://github-readme-stats.vercel.app/api?username=silenceshhh&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_rank=true&disable_animations=true&hide_title=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silenceshhh&layout=compact&langs_count=7&theme=dark&disable_animations=true&card_width=163"/>
+  <img height="159em" src="https://github-readme-stats.vercel.app/api?username=silenceshhh&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_rank=true&disable_animations=true&hide_title=true"/>
+  <img height="156em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silenceshhh&layout=compact&langs_count=7&theme=dark&disable_animations=true&card_width=163"/>
 </div>
   
   
